@@ -23,6 +23,9 @@ Google colab 2: https://colab.research.google.com/drive/1kgXxA_qeQgMSZqy5vwXE-0F
 ![UdBIk-FsLh0](https://user-images.githubusercontent.com/93220053/144316320-514c563a-e2a4-4e52-b34e-07013464c707.jpg)
 ![sum_count_reads](https://user-images.githubusercontent.com/93220053/144315416-004d864a-a2f9-4c7e-9260-7652cc74be86.png)
 
+# Сводная таблица
+![табличка](https://user-images.githubusercontent.com/93220053/144321881-5a4b100d-f4c3-49cc-8e66-29f34f68f596.png)
+
 # MA-plot
 ![MA](https://user-images.githubusercontent.com/93220053/144317326-9eda649d-978a-4a06-b212-155eb759d80b.png)
 
